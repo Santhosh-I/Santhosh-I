@@ -8,13 +8,13 @@
 
 ###
 
-
-<img align="right" height="170" src="https://giffiles.alphacoders.com/673/6732.gif"  />
-<br>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+
+<img align="right" height="170" src="https://giffiles.alphacoders.com/673/6732.gif"  />
+<br>
 
 ###
 
