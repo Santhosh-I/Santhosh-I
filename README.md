@@ -14,14 +14,12 @@
 
 <img align="right" height="170" src="https://giffiles.alphacoders.com/673/6732.gif"  />
 <br>
-<br>
 
 ###
 
 <p align="left">I'm Santhosh from Coimbatore...<br><br>- 🔭 I’m a 2nd year B.Tech student in KGISL Instution of Technology...<br>- 📚 I'm currently learning AI and DS...<br>- ⚡ In my free time I will do editing and designing...</p>
 
 ###
-<br>
 <br>
 
 <picture>
