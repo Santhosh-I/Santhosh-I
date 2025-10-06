@@ -107,17 +107,17 @@
   </a>
 </div>
 
-###
 <h2></h2>
 
-<br>
-
 <div align="center">
+  <h3 align="center">Thankyou for visiting my Cave</h3>
   <img src="https://count.getloli.com/@:Santhosh-I?theme=booru-the-collection&padding=10&offset=0&scale=.7&align=top&pixelated=1&darkmode=auto"  />
 </div>
-<h2 align="center">Thankyou for visiting my Cave</h2>
+
 
 ###
+
+<h2></h2>
 
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/bb/bd/4e/bbbd4e78ca4a5477eec5e7aaf1432be3.gif"  />
