@@ -110,7 +110,7 @@
 <h2></h2>
 
 <div align="center">
-  <h3 align="center">Thankyou for visiting my Cave</h3>
+  <h3 align="center">Thanks for visiting my Cave</h3>
   <img src="https://count.getloli.com/@:Santhosh-I?theme=booru-the-collection&padding=10&offset=0&scale=.7&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
