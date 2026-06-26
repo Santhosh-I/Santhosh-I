@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Hii I'm Santhosh from Coimbatore...<br><br>- 🔭 I’m a 2nd year B.Tech student in KGISL Instution of Technology...<br>- 📚 I'm currently learning AI and DS...<br>- ⚡ In my free time I will do editing and designing...</p>
+<p align="left">Hii I'm Santhosh from Coimbatore...<br><br>- 🔭 I’m a 3rd year B.Tech student in KGISL Instution of Technology...<br>- 📚 I'm currently learning AI and DS...<br>- ⚡ In my free time I will do editing and designing...</p>
 
 ###
 <br>
