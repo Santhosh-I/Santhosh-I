@@ -72,6 +72,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
 </div>
 
+---
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
@@ -81,6 +83,14 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Santhosh-I&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+### 🔥 LeetCode Activity
+
+<p align="center">
+  <a href="https://leetcode.com/u/Santhosh-I/">
+    <img src="https://leetcard.jacoblin.cool/Santhosh-I?theme=dark&ext=heatmap" />
+  </a>
+</p>
 
 ###
 
